@@ -14,12 +14,12 @@
         "revision":    "cm-10.1"
     },
     {
-        "remote":       "github",
-        "account":      "CyanogenMod",
-        "repository":   "android_device_samsung_crespo",
-        "target_path":  "device/samsung/crespo",
-        "revision":     "cm-10.1",
-    },    
+        "remote":      "github",
+        "account":     "CyanogenMod",
+        "repository":  "android_device_samsung_crespo",
+        "target_path": "device/samsung/crespo",
+        "revision":    "cm-10.1"
+    },
     {
         "remote":       "github",
         "account":      "TheMuppets",
